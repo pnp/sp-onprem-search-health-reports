@@ -1,7 +1,5 @@
-# sp-onprem-search-health-reports
-
+# SRx Core 
 **Download latest release here: https://github.com/pnp/sp-onprem-search-health-reports/releases**
-
 
 Announcing the Search Health Reports (SRx) for SharePoint Search Diagnostics
 ============================================================================
