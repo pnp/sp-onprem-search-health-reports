@@ -3,8 +3,6 @@
 
 Announcing the Search Health Reports (SRx) for SharePoint Search Diagnostics
 ============================================================================
-
-*   02/01/2016
 *   3 minutes to read
 
 ### In this article
